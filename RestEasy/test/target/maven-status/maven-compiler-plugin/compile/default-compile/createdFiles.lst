@@ -1,0 +1,4 @@
+com/moovin/dto/LocationDTO.class
+com/moovin/test/App.class
+com/moovin/controller/LocationController.class
+com/moovin/service/JtsService.class
